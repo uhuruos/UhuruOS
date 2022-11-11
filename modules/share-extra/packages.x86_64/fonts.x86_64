@@ -1,0 +1,19 @@
+#
+# Alter Linux package list
+#
+# Yamada Hayao
+# Twitter: @Hayao0819
+# Email  : hayao@fascode.net
+#
+# (c) 2019-2021 Fascode Network.
+#
+# Fonts
+
+ttf-sourcecodepro-nerd
+# font
+adobe-source-code-pro-fonts
+adobe-source-han-sans-jp-fonts
+
+#noto-fonts
+#noto-fonts-cjk
+#noto-fonts-emoji

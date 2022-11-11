@@ -1,0 +1,25 @@
+##
+## blackarch-UhuruOS default mirrorlist
+## Generated on 2022-11-11 21:40
+##
+## Please use 'pacman-mirrors -f [NUMBER] [NUMBER]' to modify mirrorlist
+## (Use 0 for all mirrors)
+##
+
+## Country : Singapore
+Server = https://mirror.sg.gs/blackarch/$repo/os/$arch
+
+## Country : France
+Server = http://www.blackarch.org/blackarch/$repo/os/$arch
+
+## Country : Denmark
+Server = https://mirrors.dotsrc.org/blackarch/$repo/os/$arch
+
+## Country : Japan
+Server = ftp://ftp.kddilabs.jp/Linux/packages/blackarch/$repo/os/$arch
+
+## Country : Singapore
+Server = https://download.nus.edu.sg/mirror/blackarch/$repo/os/$arch
+
+## Country : Greece
+Server = https://ftp.cc.uoc.gr/mirrors/linux/blackarch/$repo/os/$arch
